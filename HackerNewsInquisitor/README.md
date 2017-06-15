@@ -18,8 +18,8 @@ None known at this time.
 ### Potential Improvements:
 
 * Explore Desktop_Notify more
-** Click notification to access webpage
-** "Close All" button
+ * Click notification to access webpage
+ * "Close All" button
 * Multithread to allow for user interrupts (requires something worth interrupting for)
 
 ### Libraries: 
